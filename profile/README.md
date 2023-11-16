@@ -13,5 +13,5 @@ If a `LICENSE` file is not provided, content within that repository is not avail
 ---
 
 ### See More
-- [Roblox Group](https://www.roblox.com) *(https://www.roblox.com)*,
+- [Roblox Group](https://www.roblox.com/groups/33303841/atrias) *(https://www.roblox.com/groups/33303841/atrias)*,
 - [Discord Server](https://www.discord.com/invite/) *(https://www.discord.com/invite/)*
